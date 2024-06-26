@@ -28,8 +28,7 @@
 
 이 프로젝트는 다음 의존성을 필요로 합니다:
 
-- Spring Boot
-- Spring WebFlux
+- Spring Boot Web
 - Spring Boot Test
 - Lombok
 - JUnit
