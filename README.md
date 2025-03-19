@@ -82,6 +82,6 @@ posts.forEach(System.out::println);
 
 ## 주의사항
 
-- RestClent 호출은 비동기적으로 수행되며, `Mono`와 `Flux`를 사용하여 결과를 처리합니다.
+- RestClent 호출은 동기적으로 수행됩니다.
 - 적절한 오류 처리를 구현해야 합니다.
 - Lombok을 사용하여 생성자와 필드 주입을 간편하게 합니다.
